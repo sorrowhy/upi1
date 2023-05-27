@@ -1,0 +1,3 @@
+1,Ivanov Ivan Ivanovich,2000-01-01,Math:3|2020-01-01|Pupkin Pup Pupkovich;Physics:4|2020-02-01|Baluev Balu Baluevich;History:5|2020-03-01|Gorin Gor Gorevich
+2,Sidorov Sidor Sidorovich,2001-01-01,Math:5|2021-01-01|Pupkin Pup Pupkovich;Physics:4|2021-02-01|Baluev Balu Baluevich;History:3|2021-03-01|Gorin Gor Gorevich
+3,Petrov Petr Petrovich,2002-01-01,Math:5|2022-01-01|Pupkin Pup Pupkovich;Physics:5|2022-02-01|Baluev Balu Baluevich;History:3|2022-03-01|Gorin Gor Gorevich
